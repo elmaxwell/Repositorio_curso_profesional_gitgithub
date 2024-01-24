@@ -6,4 +6,6 @@ Proximamente realizara prácticas en alguna empresa alemana.
 
 Introducción desde otro coputador remoto
 
+Aporte por medio de un Fork
+
 Hoy e hablará de su historia
